@@ -1,0 +1,14 @@
+{
+  "name": "just-subs",
+  "version": "0.0.1",
+  "description": "A place to find fans. ",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "fans"
+  ],
+  "author": "ImLunaHey",
+  "license": "MIT"
+}
